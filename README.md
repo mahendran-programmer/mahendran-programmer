@@ -25,15 +25,13 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a stron
 ### 📂 **Projects:**
 
 - **[Hometown Website](https://mahendran-programmer.github.io/Hometown-Website/):** Exploring My Hometown's Beauty On Digital World ! (Using HTML, CSS, Tailwind and JS).
-- **[Project Name 2](https://mahendran-programmer.github.io/Age-Calculator/):** Discover Your Age with My Application(HTML, CSS and JS).
-
-_Check out my [repositories](https://github.com/mahendran-programmer?tab=repositories) for more projects and contributions._
+- **[Age Calculator](https://mahendran-programmer.github.io/Age-Calculator/):** Discover Your Age with My Application(HTML, CSS and JS).
 
 ---
 
 ### 📬 **Let's Connect:**
 
-- **Portfolio:** [Mahendran](https://mahendran-programmer.github.io/Portfolio-Website/)
+- **Portfolio:** [Explore Here](https://mahendran-programmer.github.io/Portolio-Website/)
 - **LinkedIn:** [Mahendran V](www.linkedin.com/in/mahendran-tech)
 - **Instagram:** [@mahendran.tech](https://instagram.com/mahendran.tech)
 - **Twitter:** [@MahendranTech](https://twitter.com/mahendran)
