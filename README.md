@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a stron
 ### 📬 **Let's Connect:**
 
 - **Portfolio:** [Explore Here](https://mahendran-programmer.github.io/Portolio-Website/)
-- **LinkedIn:** [Mahendran V](www.linkedin.com/in/mahendran-tech)
+- **LinkedIn:** [Mahendran V](https://www.linkedin.com/in/mahendran-tech/)
 - **Instagram:** [@mahendran.tech](https://instagram.com/mahendran.tech)
 - **Twitter:** [@MahendranTech](https://twitter.com/mahendran)
 
